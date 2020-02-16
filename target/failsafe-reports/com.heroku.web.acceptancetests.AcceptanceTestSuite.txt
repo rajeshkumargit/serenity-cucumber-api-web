@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: com.heroku.web.acceptancetests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 59.858 s <<< FAILURE! - in com.heroku.web.acceptancetests.AcceptanceTestSuite
+Get particular employee details  Time elapsed: 0.912 s  <<< ERROR!
+io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+Caused by: groovy.json.JsonException: Lexing failed on line: 1, column: 1, while reading '<', no possible valid JSON value or punctuation could be recognized.
+
+page not found error  Time elapsed: 0.73 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: expected: <404> but was: <405>
+
+Successful authorization with valid credentials  Time elapsed: 8.327 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MDMUE3T', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown
+

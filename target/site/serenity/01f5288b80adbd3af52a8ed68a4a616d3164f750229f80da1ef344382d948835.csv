@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Employee Details","Get All Employee Details","SUCCESS","2020-02-16T12:47:50.053+11:00[Australia/Sydney]","0.0","3.39"
+"web application navigation","Successful redirection to home page","SUCCESS","2020-02-16T12:48:14.198+11:00[Australia/Sydney]","0.0","8.14"
+"web application navigation","Selecting options from a dropdown list","SUCCESS","2020-02-16T12:48:22.344+11:00[Australia/Sydney]","0.0","17.71"
+"web application navigation","Using iframe window","SUCCESS","2020-02-16T12:48:40.06+11:00[Australia/Sydney]","0.0","8.07"

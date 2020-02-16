@@ -1,0 +1,600 @@
+# Created at 2020-02-16T12:47:49.386
+WARNING: Found tags option '@all-web,@rest-all'. Support for '@tag1,@tag2' will be removed from the next release of Cucumber-JVM. Please use '@tag or @tag2' instead
+
+# Created at 2020-02-16T12:47:49.575
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:49.575
+
+
+# Created at 2020-02-16T12:47:49.575
+-------------------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:47:49.576
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+
+# Created at 2020-02-16T12:47:49.578
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+
+# Created at 2020-02-16T12:47:49.579
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+
+# Created at 2020-02-16T12:47:49.579
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+
+# Created at 2020-02-16T12:47:49.580
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+
+# Created at 2020-02-16T12:47:49.580
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+
+# Created at 2020-02-16T12:47:49.580
+                                                                                     
+
+# Created at 2020-02-16T12:47:49.583
+ News and tutorials at http://www.serenity-bdd.info                                  
+
+# Created at 2020-02-16T12:47:49.584
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+
+# Created at 2020-02-16T12:47:49.584
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+
+# Created at 2020-02-16T12:47:49.584
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+
+# Created at 2020-02-16T12:47:49.585
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+
+# Created at 2020-02-16T12:47:49.585
+-------------------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:47:49.585
+
+
+# Created at 2020-02-16T12:47:49.589
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Employee Details
+
+# Created at 2020-02-16T12:47:49.622
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: web application navigation
+
+# Created at 2020-02-16T12:47:49.902
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Employee Details
+
+# Created at 2020-02-16T12:47:49.910
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: web application navigation
+
+# Created at 2020-02-16T12:47:50.062
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:50.062
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:47:50.063
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:47:50.063
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:47:50.064
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:47:50.064
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:47:50.064
+                                                                  
+
+# Created at 2020-02-16T12:47:50.065
+
+
+# Created at 2020-02-16T12:47:50.065
+TEST STARTED: Get All Employee Details
+
+# Created at 2020-02-16T12:47:50.065
+-------------------------------------------------------------------(employee-details;get-all-employee-details)
+
+# Created at 2020-02-16T12:47:53.444
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:53.444
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-02-16T12:47:53.445
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-02-16T12:47:53.445
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-02-16T12:47:53.445
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-02-16T12:47:53.446
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-02-16T12:47:53.446
+        /_/                                                                
+
+# Created at 2020-02-16T12:47:53.446
+
+
+# Created at 2020-02-16T12:47:53.447
+TEST PASSED: Get All Employee Details
+
+# Created at 2020-02-16T12:47:53.447
+----------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:47:53.454
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:53.454
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:47:53.455
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:47:53.455
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:47:53.455
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:47:53.456
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:47:53.456
+                                                                  
+
+# Created at 2020-02-16T12:47:53.456
+
+
+# Created at 2020-02-16T12:47:53.457
+TEST STARTED: Get particular employee details
+
+# Created at 2020-02-16T12:47:53.457
+-------------------------------------------------------------------(employee-details;get-particular-employee-details)
+
+# Created at 2020-02-16T12:47:54.371
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:54.373
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+
+# Created at 2020-02-16T12:47:54.373
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+
+# Created at 2020-02-16T12:47:54.373
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+
+# Created at 2020-02-16T12:47:54.374
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+
+# Created at 2020-02-16T12:47:54.374
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+
+# Created at 2020-02-16T12:47:54.374
+          \_\                                                            
+
+# Created at 2020-02-16T12:47:54.374
+
+
+# Created at 2020-02-16T12:47:54.375
+TEST FAILED WITH ERROR: Get particular employee details
+
+# Created at 2020-02-16T12:47:54.377
+---------------------------------------------------------------------
+
+# Created at 2020-02-16T12:47:54.459
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP Assert employee details response: 17, Paul Byrd, 64,
+
+# Created at 2020-02-16T12:47:54.460
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - Lexing failed on line: 1, column: 1, while reading '<', no possible valid JSON value or punctuation could be recognized.
+
+# Created at 2020-02-16T12:47:54.467
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:54.467
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:47:54.468
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:47:54.468
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:47:54.468
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:47:54.468
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:47:54.469
+                                                                  
+
+# Created at 2020-02-16T12:47:54.469
+
+
+# Created at 2020-02-16T12:47:54.469
+TEST STARTED: page not found error
+
+# Created at 2020-02-16T12:47:54.470
+-------------------------------------------------------------------(employee-details;page-not-found-error)
+
+# Created at 2020-02-16T12:47:55.206
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:55.206
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+
+# Created at 2020-02-16T12:47:55.206
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+
+# Created at 2020-02-16T12:47:55.207
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+
+# Created at 2020-02-16T12:47:55.208
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+
+# Created at 2020-02-16T12:47:55.208
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+
+# Created at 2020-02-16T12:47:55.209
+          \_\                                                            
+
+# Created at 2020-02-16T12:47:55.209
+
+
+# Created at 2020-02-16T12:47:55.209
+TEST FAILED: page not found error
+
+# Created at 2020-02-16T12:47:55.210
+--------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:47:55.210
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP Assert status code: 404
+
+# Created at 2020-02-16T12:47:55.210
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - expected: <404> but was: <405>
+
+# Created at 2020-02-16T12:47:55.218
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:47:55.218
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:47:55.218
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:47:55.219
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:47:55.219
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:47:55.219
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:47:55.219
+                                                                  
+
+# Created at 2020-02-16T12:47:55.220
+
+
+# Created at 2020-02-16T12:47:55.220
+TEST STARTED: Successful authorization with valid credentials
+
+# Created at 2020-02-16T12:47:55.220
+-------------------------------------------------------------------(web-application-navigation;successful-authorization-with-valid-credentials)
+
+# Created at 2020-02-16T12:47:56.408
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-16T12:47:56.410
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {args: [-headless]}, platform: ANY, version: }
+
+# Created at 2020-02-16T12:48:04.864
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:04.865
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-02-16T12:48:04.866
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:04.867
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-02-16T12:48:04.867
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-02-16T12:48:04.867
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-02-16T12:48:04.868
+        /_/                                                                
+
+# Created at 2020-02-16T12:48:04.868
+
+
+# Created at 2020-02-16T12:48:04.868
+TEST PASSED: Successful authorization with valid credentials
+
+# Created at 2020-02-16T12:48:04.868
+----------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:48:05.243
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-16T12:48:05.243
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {args: [-headless]}, platform: ANY, version: }
+
+# Created at 2020-02-16T12:48:14.187
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:14.188
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+
+# Created at 2020-02-16T12:48:14.188
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+
+# Created at 2020-02-16T12:48:14.188
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+
+# Created at 2020-02-16T12:48:14.189
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+
+# Created at 2020-02-16T12:48:14.189
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+
+# Created at 2020-02-16T12:48:14.190
+          \_\                                                            
+
+# Created at 2020-02-16T12:48:14.190
+
+
+# Created at 2020-02-16T12:48:14.190
+TEST FAILED WITH ERROR: Successful authorization with valid credentials
+
+# Created at 2020-02-16T12:48:14.191
+---------------------------------------------------------------------
+
+# Created at 2020-02-16T12:48:14.191
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP Assert auth msg: Not authorized
+
+# Created at 2020-02-16T12:48:14.192
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - Timed out after 2 seconds. Element not found
+
+# Created at 2020-02-16T12:48:14.199
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:14.200
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:48:14.200
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:14.200
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:48:14.201
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:48:14.201
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:48:14.202
+                                                                  
+
+# Created at 2020-02-16T12:48:14.202
+
+
+# Created at 2020-02-16T12:48:14.202
+TEST STARTED: Successful redirection to home page
+
+# Created at 2020-02-16T12:48:14.203
+-------------------------------------------------------------------(web-application-navigation;successful-redirection-to-home-page)
+
+# Created at 2020-02-16T12:48:14.543
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-16T12:48:14.543
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {args: [-headless]}, platform: ANY, version: }
+
+# Created at 2020-02-16T12:48:22.340
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:22.341
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-02-16T12:48:22.341
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:22.341
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-02-16T12:48:22.342
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-02-16T12:48:22.342
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-02-16T12:48:22.342
+        /_/                                                                
+
+# Created at 2020-02-16T12:48:22.342
+
+
+# Created at 2020-02-16T12:48:22.343
+TEST PASSED: Successful redirection to home page
+
+# Created at 2020-02-16T12:48:22.343
+----------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:48:22.344
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:22.345
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:48:22.345
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:22.345
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:48:22.345
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:48:22.346
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:48:22.346
+                                                                  
+
+# Created at 2020-02-16T12:48:22.346
+
+
+# Created at 2020-02-16T12:48:22.346
+TEST STARTED: Selecting options from a dropdown list
+
+# Created at 2020-02-16T12:48:22.347
+-------------------------------------------------------------------(web-application-navigation;selecting-options-from-a-dropdown-list)
+
+# Created at 2020-02-16T12:48:22.713
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-16T12:48:22.713
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {args: [-headless]}, platform: ANY, version: }
+
+# Created at 2020-02-16T12:48:31.734
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:31.735
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-02-16T12:48:31.735
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:31.735
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-02-16T12:48:31.736
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-02-16T12:48:31.736
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-02-16T12:48:31.736
+        /_/                                                                
+
+# Created at 2020-02-16T12:48:31.737
+
+
+# Created at 2020-02-16T12:48:31.737
+TEST PASSED: Selecting options from a dropdown list
+
+# Created at 2020-02-16T12:48:31.737
+----------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:48:32.016
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-16T12:48:32.017
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {args: [-headless]}, platform: ANY, version: }
+
+# Created at 2020-02-16T12:48:40.056
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:40.056
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-02-16T12:48:40.056
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:40.057
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-02-16T12:48:40.057
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-02-16T12:48:40.058
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-02-16T12:48:40.058
+        /_/                                                                
+
+# Created at 2020-02-16T12:48:40.058
+
+
+# Created at 2020-02-16T12:48:40.059
+TEST PASSED: Selecting options from a dropdown list
+
+# Created at 2020-02-16T12:48:40.059
+----------------------------------------------------------------------------
+
+# Created at 2020-02-16T12:48:40.061
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:40.061
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-16T12:48:40.062
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:40.062
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-16T12:48:40.063
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-16T12:48:40.063
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-16T12:48:40.064
+                                                                  
+
+# Created at 2020-02-16T12:48:40.064
+
+
+# Created at 2020-02-16T12:48:40.065
+TEST STARTED: Using iframe window
+
+# Created at 2020-02-16T12:48:40.065
+-------------------------------------------------------------------(web-application-navigation;using-iframe-window)
+
+# Created at 2020-02-16T12:48:40.369
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-16T12:48:40.369
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {args: [-headless]}, platform: ANY, version: }
+
+# Created at 2020-02-16T12:48:48.131
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-16T12:48:48.132
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-02-16T12:48:48.132
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-02-16T12:48:48.132
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-02-16T12:48:48.133
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-02-16T12:48:48.133
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-02-16T12:48:48.134
+        /_/                                                                
+
+# Created at 2020-02-16T12:48:48.134
+
+
+# Created at 2020-02-16T12:48:48.134
+TEST PASSED: Using iframe window
+
+# Created at 2020-02-16T12:48:48.135
+----------------------------------------------------------------------------
+
